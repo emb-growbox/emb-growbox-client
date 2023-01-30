@@ -1,0 +1,24 @@
+.gauge-container {
+  border: "1px solid black";
+  border-radius: 2em;
+  padding: 20;
+}
+
+.title {
+  font-size: 24px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #3B3A39;
+}
+
+
+.value {
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #3B3A39;
+}
+
+.text-container {
+  display: block;
+  text-align: center;
+}
